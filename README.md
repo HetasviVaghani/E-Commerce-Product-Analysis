@@ -33,14 +33,16 @@ The goal of this project is to **visualize sales data effectively**, enabling st
   - Clean and user-friendly layout
 
 ## 📁 Files Included
-The Complete Report File - <a href="https://github.com/HetasviVaghani/E-Commerce-Product-Analysis/blob/main/E-%20Commerce.pbix">E-Commerce.pbix
+- The Complete Report File - <a href="https://github.com/HetasviVaghani/E-Commerce-Product-Analysis/blob/main/E-%20Commerce.pbix">E-Commerce.pbix</a>
+- Datasource - <a href ="https://github.com/HetasviVaghani/E-Commerce-Product-Analysis/blob/main/ECOMM%20DATA.xlsx">ECOMM DATA.xlsx</a>
 
 ## 🚀 How to Use
 1. Download or clone this repository.
 2. Open `E-Commerce.pbix` using [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
 3. Use slicers and visuals to explore the data by category, market, country, and shipping mode.
 
-
+## Dashboard
+<img width="1308" height="727" alt="E-Commerce Report" src="https://github.com/user-attachments/assets/33491532-ebe9-4c5f-9d37-257d98d73a19" />
 
 
 
